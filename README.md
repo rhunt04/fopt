@@ -13,9 +13,9 @@ generates fortran dependency trees.
 The `L-BFGS-B` Source distribution is not tracked, but can be obtained from [the L-BFGS-B
 website](http://users.iems.northwestern.edu/~nocedal/lbfgsb.html) under their
 license. When placed in `src` appropriately, that library will be compiled as
-suggested, and linked to the f03 libraries in the remainder of src.
+suggested, and linked to the f03 libraries in the remainder of `src`.
 
-You will need to download the `L-BFGS-B` source distribution (and extract it)
+**You** will need to download the `L-BFGS-B` source distribution (and extract it)
 and place it inside `src` for this project to compile.
 
 # Do you want to use this?
